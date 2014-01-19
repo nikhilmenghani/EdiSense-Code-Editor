@@ -15,7 +15,7 @@ namespace edisense
 {
     public partial class Form1 : Form
     {
-        private List<string> autoCompleteList = new List<string>();
+        
 
         public Form1()
         {
