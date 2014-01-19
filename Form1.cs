@@ -11,7 +11,7 @@ using System.Text.RegularExpressions;
 
 
 
-namespace syntax_highlight
+namespace edisense
 {
     public partial class Form1 : Form
     {
