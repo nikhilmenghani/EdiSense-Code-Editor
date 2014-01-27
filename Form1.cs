@@ -119,17 +119,7 @@ namespace edisense
 		}
             
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         
-
-        private void listBox1_SelectedIndexChanged_1(object sender, EventArgs e)
-        {
-
-        }
     
     }
 }
