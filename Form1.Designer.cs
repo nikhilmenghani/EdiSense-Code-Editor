@@ -48,19 +48,7 @@ namespace edisense
             resources.ApplyResources(this.label1, "label1");
             this.label1.Name = "label1";
             this.label1.Click += new System.EventHandler(this.label1_Click);
-            // 
-            // label2
-            // 
-            resources.ApplyResources(this.label2, "label2");
-            this.label2.Name = "label2";
-            // 
-            // label3
-            // 
-            resources.ApplyResources(this.label3, "label3");
-            this.label3.Name = "label3";
-            // 
-            // listBox1
-            // 
+            
             this.listBox1.FormattingEnabled = true;
             resources.ApplyResources(this.listBox1, "listBox1");
             this.listBox1.Name = "listBox1";
@@ -85,8 +73,7 @@ namespace edisense
 
         private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
+        
         
 
 
